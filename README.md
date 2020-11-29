@@ -5,13 +5,13 @@ A development board. (Embedsky E9V3) (OS: Ubuntu 16.04) &emsp;
 
 ![image](https://github.com/sfwang20/EmbeddedSys/blob/master/images/0-1.png)
 
-An RS-232 cable.  &emsp;
-
-A power cable.  &emsp;
-
 An LCD screen. (TN92_7LCD_V1.02).  &emsp;
 
 ![image](https://github.com/sfwang20/EmbeddedSys/blob/master/images/0-2.png)
+
+An RS-232 cable.  &emsp;
+
+A power cable.  &emsp;
 
 An RS-232 – USB cable. (Uptech UTN401A).  &emsp;
 
@@ -45,7 +45,7 @@ Build opencv. &emsp;
 
 Compile code using opencv. &emsp;
 
-![image](https://github.com/sfwang20/EmbeddedSys/blob/master/images/2-1.png)
+![image](https://github.com/sfwang20/EmbeddedSys/blob/master/images/2-1.jpg)
 &emsp;
 
 ### 2-2. Using video output and input on the embedded system.
@@ -57,7 +57,7 @@ It should capture and save multiple images after pressing multiples times “c�
 
 5.2 After bootup, start to recording the input stream to a video file automatically. The video format is not restricted. &emsp;
 
-![image](https://github.com/sfwang20/EmbeddedSys/blob/master/images/2-2.png)
+![image](https://github.com/sfwang20/EmbeddedSys/blob/master/images/2-2.jpg)
 &emsp
 
 ### 2-3. Using video output and input on the embedded system.
