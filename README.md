@@ -1,17 +1,17 @@
 ## Embedded System practice
 
 ### Equipments
-A development board. (Embedsky E9V3) &emsp;
-(OS: Ubuntu 16.04) &emsp;
+A development board. (Embedsky E9V3)  &emsp;
+(OS: Ubuntu 16.04)  &emsp;
 ![image](https://github.com/sfwang20/EmbeddedSys/blob/master/images/0-1.png)
-An RS-232 cable. &emsp;
-A power cable &emsp;
-An LCD screen. (TN92_7LCD_V1.02). &emsp;
+An RS-232 cable.  &emsp;
+A power cable.  &emsp;
+An LCD screen. (TN92_7LCD_V1.02).  &emsp;
 ![image](https://github.com/sfwang20/EmbeddedSys/blob/master/images/0-2.png)
-An RS-232 – USB cable. (Uptech UTN401A) &emsp;
-A miniUSB – USB cable*. &emsp;
-An Ethernet cable*. &emsp;
-&emsp;
+An RS-232 – USB cable. (Uptech UTN401A).  &emsp;
+A miniUSB – USB cable*.  &emsp;
+An Ethernet cable*.  &emsp;
+  &emsp;
 
 ### 1. 'Hello World' in an embedded system
 Prepare a host computer installed with Ubuntu 14.04. &emsp;
